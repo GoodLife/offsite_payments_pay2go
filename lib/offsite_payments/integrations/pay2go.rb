@@ -1,5 +1,4 @@
 require "offsite_payments"
-require_relative "pay2go/version"
 
 module OffsitePayments #:nodoc:
   module Integrations #:nodoc:
