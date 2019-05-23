@@ -5,8 +5,8 @@ require "offsite_payments_pay2go/version"
 Gem::Specification.new do |spec|
   spec.name          = "offsite_payments_pay2go"
   spec.version       = OffsitePaymentsPay2go::VERSION
-  spec.authors       = ["stan"]
-  spec.email         = ["solve153@gmail.com"]
+  spec.authors       = ["hothero", "hrs", "stan"]
+  spec.email         = ["hothero0705@gmail.com", "hrs113355@gmail.com", "solve153@gmail.com"]
 
   spec.summary       = %q{OffsitePayments for Pay2go, a Taiwan based payment gateway}
   spec.description   = %q{OffsitePayments for Pay2go}
